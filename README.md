@@ -1,7 +1,7 @@
 # Blockchain communities
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
->Your community is not listed here? Fork this repo and create a PR with the data of your community ❤️ so that everyone knows you.
+>Your community is not listed here? Help others find you. Fork this repo and create a PR with the data of your community ❤️ so that everyone knows you.
 
 An exhaustive list of blockchain communities around the world sorted by country. You can use this list to find partners for your next meetup, exchange ideas or meet new people in your city with similar interests.
 
