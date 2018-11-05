@@ -16,3 +16,4 @@ An exhaustive list of blockchain communities around the world sorted by country.
 | [Hyperledger Galicia](https://www.meetup.com/es-ES/Hyperledger-Galicia/)            	| Hyperledger               	| [@Hyperledger](https://twitter.com/Hyperledger)       	| A Coruña / Vigo         	|
 | [Valladolid Blockchain](https://www.meetup.com/es-ES/Valladolid-Blockchain-Meetup/) 	| Any blockchain technology 	| [@VaBlockchain](https://twitter.com/vablockchain)     	| Valladolid              	|
 | [AvalBit](https://www.meetup.com/es-ES/ValenciaBitcoin/)         	| Any blockchain technology 	| [@avalBit](https://twitter.com/avalbit) 	| Valencia  
+| [Blocks&Beers](https://blocksandbeers.org)         	| Blockchain disclosure events 	| [@BlockandBeers](https://twitter.com/BlockandBeers) 	| Vila-real / Castellón  
